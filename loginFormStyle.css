@@ -1,0 +1,21 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+form {
+     width: 50%;
+    margin: 0 auto;
+    }
+
+form label,
+form input,
+form button {
+    margin-bottom: 3px;
+    display: block;
+    width: 100%;
+    }
+
+form .error {
+      color: #ff0000;
+      }

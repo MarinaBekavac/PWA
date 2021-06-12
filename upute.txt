@@ -1,0 +1,19 @@
+Kategorije vijesti se ucitavaju iz baze pa ako ne vidite kategorije
+to je zato sto nemate tablicu kategorije.
+Probajte importati moju bazu.
+Ako vam se baza ne zeli uploadati radi kolotacije, otvorite sql file i rucno 
+promjenite kolotaciju te probajte ponovo importati.
+
+Ukoliko netko zeli isprobati moju aplikaciju na mojoj bazi
+ovo su lozinke za korisnike.
+
+Table users
+
+username	password	razina(1=admin)
+Maze95		Pass		0
+Admin		admin		1
+Maze1995	TVZ			0
+Maze13		PWA			0
+
+Link na github:
+https://github.com/MarinaBekavac/PWA.git
